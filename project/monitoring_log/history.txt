@@ -1,0 +1,337 @@
+ 1  sudo apt update
+    2  sudo apt upgrade
+    3  ifconfig
+    4  sudo apt install net-tools
+    5  gcc --version
+    6  sudo apt install gcc
+    7  sudo apt install g++
+    8  gcc --version
+    9  g++ version
+   10  g++ --version
+   11  java -version
+   12  java --version
+   13  sudo apt install openjdk-8-jre-headless
+   14  jaavc
+   15  sudo apt install openjdk-8-jdk-headless
+   16  javac
+   17  java -version
+   18  clear
+   19  gedit sample.c
+   20  gcc sample.c
+   21  ./a.out
+   22  gedit swap.c
+   23  gcc swap.c
+   24  ./a.out
+   25  gedit integer.cpp
+   26  g++ integer.cpp
+   27  ./a.out
+   28  gedit HellWorld.java
+   29  javac HelloWorld.java
+   30  ls
+   31  javac HellWorld.java
+   32  java HellWorld
+   33  java HellWorld.java
+   34  gedit GFG.java
+   35  javac GFG.java
+   36  java GFG.java
+   37  java GFG
+   38  javac HellWorld.java
+   39  java HellWorld
+   40  javac HelloWorld.java
+   41  java HelloWorld
+   42  gedit HelloWorld.java
+   43  javac HelloWorld.java
+   44  java Helloworld
+   45  java Helloworld.java
+   46  javac
+   47  java -version
+   48  javac GFG.java
+   49  java GFG
+   50  cd Downloads/
+   51  ls
+   52  javac DigitalClock.java
+   53  appletviewer DigitalClock
+   54  sudo apt install openjdk-8-jdk
+   55  javac DigitalClock.java
+   56  appletviewer DigitalClock
+   57  javac DigitalClock.java
+   58  cd Downloads/
+   59  javac DigitalClock.java
+   60  appletviewer DigitalClock
+   61  appletviewer DigitalClock.java
+   62  javac GraphicsDemo.java
+   63  appletviewer GraphicsDemo.java
+   64  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb~
+   65  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb~
+   66  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   67  sudo dpkg -i google-chrome-stable_current_amd64.deb
+   68  ifconfig
+   69  su administrator
+   70  sudo bash
+   71  vim
+   72  sudo apt install vim
+   73  touch file1.txt
+   74  mkdir noob
+   75  cd noob
+   76  touch file.txt
+   77  vim file1.txt
+   78  cd /\
+   79  cd /
+   80  ls
+   81  cd home
+   82  ls
+   83  cd adminstrator
+   84  cd administrator
+   85  ls
+   86  cd Desktop
+   87  vim
+   88  cd /
+   89  ls
+   90  cd home
+   91  ls
+   92  cd administrator
+   93  cd Desktop
+   94  touch grep.txt
+   95  nano grep.txt
+   96  grep
+   97  grep "refill" grep.txt
+   98  mkdir cloud
+   99  cd cloud
+  100  file1.txt file2.txt
+  101  touch file1.txt file2.txt
+  102  clearrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr              
+  103  grep "hii"
+  104  grep "refill" grep.txt
+  105  grep "think" grep.txt
+  106  grep "stress" grep.txt
+  107  cat grep.txt
+  108  cat grep.txt | wc-l
+  109  cat grep.txt | wc -l
+  110  cat grep.txt |wc -c
+  111  cat grep.txt |wc -w
+  112  chown
+  113  sudo chown administrator grep.txt
+  114  cat /etc/passwd
+  115  ls
+  116  ls -ld dir1
+  117  clear
+  118  cat /etc/passwd
+  119  passwd harini
+  120  passwd skacas
+  121  passwd manoj
+  122  cat /etc/passwd
+  123  clear
+  124  cat /etc/passwd
+  125  clear
+  126  cat /etc/passwd
+  127  cd /
+  128  cd home
+  129  cd administrator
+  130  cd Desktop
+  131  cd cloud
+  132  clear
+  133  cd /
+  134  sudo useradd jith
+  135  cat /etc/passwd
+  136  sudo su jith
+  137  sudu su jith
+  138  sudo su jith
+  139  sudo passwd jith
+  140  cd /
+  141  su jith
+  142  touch file^.txt
+  143  su jith
+  144  su administrator
+  145  clear
+  146  nano
+  147  6min only .txtr
+  148  clear
+  149  ,kdir
+  150  clear
+  151  cd Desktop
+  152  cd /
+  153  cd ..
+  154  cd home
+  155  cd administrator
+  156  cd Desktop
+  157  touch file^.txt
+  158  user del jith
+  159  sudo userdel jith
+  160  cat /etc/passwd
+  161  sudo userdel jith
+  162  userdel jith
+  163  cat /etc/passwd
+  164  sudo userdel 
+  165  sudo userdel -f jith
+  166  cat /etc/passwd
+  167  <pre><font color="#26A269"><b>administrator@administrator-Lenovo-V130-14IKB</b></font>:<font color="#12488B"><b>~/Desktop</b></font>$ sudo userdel -f jith
+  168  userdel: user jith is currently used by process 38184
+  169  <font color="#26A269"><b>administrator@administrator-Lenovo-V130-14IKB</b></font>:<font color="#12488B"><b>~/Desktop</b></font>$ cat /etc/passwd
+  170  root:x:0:0:root:/root:/bin/bash
+  171  daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+  172  bin:x:2:2:bin:/bin:/usr/sbin/nologin
+  173  sys:x:3:3:sys:/dev:/usr/sbin/nologin
+  174  sync:x:4:65534:sync:/bin:/bin/sync
+  175  games:x:5:60:games:/usr/games:/usr/sbin/nologin
+  176  man:x:6:12:man:/var/cache/man:/usr/sbin/nologin
+  177  lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
+  178  mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
+  179  news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
+  180  uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
+  181  proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
+  182  www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
+  183  backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
+  184  list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
+  185  irc:x:39:39:ircd:/run/ircd:/usr/sbin/nologin
+  186  gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/usr/sbin/nologin
+  187  nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
+  188  systemd-network:x:100:102:systemd Network Management,,,:/run/systemd:/usr/sbin/nologin
+  189  systemd-resolve:x:101:103:systemd Resolver,,,:/run/systemd:/usr/sbin/nologin
+  190  messagebus:x:102:105::/nonexistent:/usr/sbin/nologin
+  191  systemd-timesync:x:103:106:systemd Time Synchronization,,,:/run/systemd:/usr/sbin/nologin
+  192  syslog:x:104:111::/home/syslog:/usr/sbin/nologin
+  193  _apt:x:105:65534::/nonexistent:/usr/sbin/nologin
+  194  tss:x:106:113:TPM software stack,,,:/var/lib/tpm:/bin/false
+  195  uuidd:x:107:116::/run/uuidd:/usr/sbin/nologin
+  196  systemd-oom:x:108:117:systemd Userspace OOM Killer,,,:/run/systemd:/usr/sbin/nologin
+  197  tcpdump:x:109:118::/nonexistent:/usr/sbin/nologin
+  198  avahi-autoipd:x:110:119:Avahi autoip daemon,,,:/var/lib/avahi-autoipd:/usr/sbin/nologin
+  199  usbmux:x:111:46:usbmux daemon,,,:/var/lib/usbmux:/usr/sbin/nologin
+  200  dnsmasq:x:112:65534:dnsmasq,,,:/var/lib/misc:/usr/sbin/nologin
+  201  kernoops:x:113:65534:Kernel Oops Tracking Daemon,,,:/:/usr/sbin/nologin
+  202  avahi:x:114:121:Avahi mDNS daemon,,,:/run/avahi-daemon:/usr/sbin/nologin
+  203  cups-pk-helper:x:115:122:user for cups-pk-helper service,,,:/home/cups-pk-helper:/usr/sbin/nologin
+  204  rtkit:x:116:123:RealtimeKit,,,:/proc:/usr/sbin/nologin
+  205  whoopsie:x:117:124::/nonexistent:/bin/false
+  206  sssd:x:118:125:SSSD system user,,,:/var/lib/sss:/usr/sbin/nologin
+  207  speech-dispatcher:x:119:29:Speech Dispatcher,,,:/run/speech-dispatcher:/bin/false
+  208  fwupd-refresh:x:120:126:fwupd-refresh user,,,:/run/systemd:/usr/sbin/nologin
+  209  nm-openvpn:x:121:127:NetworkManager OpenVPN,,,:/var/lib/openvpn/chroot:/usr/sbin/nologin
+  210  saned:x:122:129::/var/lib/saned:/usr/sbin/nologin
+  211  colord:x:123:130:colord colour management daemon,,,:/var/lib/colord:/usr/sbin/nologin
+  212  geoclue:x:124:131::/var/lib/geoclue:/usr/sbin/nologin
+  213  pulse:x:125:132:PulseAudio daemon,,,:/run/pulse:/usr/sbin/nologin
+  214  gnome-initial-setup:x:126:65534::/run/gnome-initial-setup/:/bin/false
+  215  hplip:x:127:7:HPLIP system user,,,:/run/hplip:/bin/false
+  216  gdm:x:128:134:Gnome Display Manager:/var/lib/gdm3:/bin/false
+  217  administrator:x:1000:1000:administrator,,,:/home/administrator:/bin/bash
+  218  skacas:x:1001:1001:skacas,,,:/home/skacas:/bin/bash
+  219  <font color="#26A269"><b>administrator@administrator-Lenovo-V130-14IKB</b></font>:<font color="#12488B"><b>~/Des</b></font></pre>whoopsie:x:117:124::/nonexistent:/bin/false
+  220  whoopsie:x:117:124::/nonexistent:/bin/false
+  221  clear
+  222  script
+  223  cd /
+  224  ls
+  225  cd administrator
+  226  cd
+  227  ls
+  228  cd Desktop
+  229  nano script2.sh
+  230  cd /
+  231  sudo apt update
+  232  sudo apt install git
+  233  git --version
+  234  cd /
+  235  ls
+  236  history
+  237  clear
+  238  cd /
+  239  cd Desktop
+  240  ls
+  241  cd home
+  242  ls
+  243  cd administrator
+  244  ls
+  245  cd Desktop
+  246  mkdir project
+  247  cd project
+  248  mkdir monitoring_log
+  249  cd monitoring_log
+  250  mkdir January, February, March, April, May, June, July, August, September, October, November,  December
+  251  cd january
+  252  cd January
+  253  cd January,
+  254  device_log_day_1.txt device_status_day_1.csv
+  255  touch device_log_day_1.txt device_status_day_1.csv
+  256  cd February,
+  257  cd ..
+  258  cd February,
+  259  touch device_log_day_2.txt device_status_day_2.csv
+  260  cd ..
+  261  cd March,
+  262  touch device_log_day_3.txt device_status_day_3.csv
+  263  cd ..
+  264  cd April,
+  265  touch device_log_day_4.txt device_status_day_4.csv
+  266  cd ..
+  267  cd May,
+  268  touch device_log_day_5.txt device_status_day_5.csv
+  269  cd ..
+  270  cd June,
+  271  touch device_log_day_6.txt device_status_day_6.csv
+  272  cd ..
+  273  cd July,
+  274  touch device_log_day_7.txt device_status_day_7.csv
+  275  cd ..
+  276  cd August,
+  277  touch device_log_day_8.txt device_status_day_8.csv
+  278  cd ..
+  279  cd September,
+  280  touch device_log_day_9.txt device_status_day_9.csv
+  281  cd ..
+  282  cd October,
+  283  touch device_log_day_10.txt device_status_day_10.csv
+  284  cd ..
+  285  cd November,
+  286  touch device_log_day_11.txt device_status_day_11.csv
+  287  cd ..
+  288  cd December
+  289  touch device_log_day_12.txt device_status_day_12.csv
+  290  cd ..
+  291  cd January,
+  292  pwd
+  293  mv  device_log_day_1.txt device_status_day_1.csv
+  294  cd ..
+  295  cd February
+  296  cd February,
+  297  pwd
+  298  mv /home/administrator/Desktop/project/monitoring_log/February  /home/administrator/Desktop/project/November,
+  299  mv /home/administrator/Desktop/project/monitoring_log/February /home/administrator/Desktop/project/November,
+  300  cd ..
+  301  mv /home/administrator/Desktop/project/monitoring_log/February /home/administrator/Desktop/project/November,
+  302  mv /home/administrator/Desktop/project/monitoring_log/ February, /home/administrator/Desktop/project/ November,
+  303  mv /home/administrator/Desktop/project/monitoring_log/ February, /home/administrator/Desktop/project/monitoring_log/ November,
+  304  mkdir iot_devices
+  305  ls
+  306  cd iot_devices
+  307  touch leodass.txt
+  308  ls
+  309  touch iot_device_info.txt
+  310  chmod 777 iot_device_info.txt
+  311  ls -l
+  312  ls -ll
+  313  mkdir backup
+  314  cat > backup.txt
+  315  cp backup.txt backup
+  316  ls
+  317  rm backup.txt
+  318  ls
+  319  rm -r
+  320  cd ..
+  321  rm -r may,
+  322  rm -r May,
+  323  history
+  324  cd /
+  325  ls
+  326  cd home
+  327  ls
+  328  cd adminisrator
+  329  cd administrator
+  330  ls
+  331  cd project
+  332  ls
+  333  cd Desktop
+  334  ls
+  335  cd project
+  336  ls
+  337  history
